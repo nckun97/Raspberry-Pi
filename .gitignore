@@ -1,0 +1,14 @@
+# Python virtual environment
+.venv/
+*/.venv/
+week4/week4_venv/
+
+# Models & large files
+models/
+*.onnx
+*.tar.bz2
+*.bin
+
+# Python cache
+__pycache__/
+*.pyc
