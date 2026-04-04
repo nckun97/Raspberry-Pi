@@ -25,9 +25,11 @@ make
 ---
 
 ## ▶️ Run
+
 ./run.sh
 
 ## 📊 Experiment
+
 Models Tested
 ggml-tiny.bin
 ggml-base.bin
@@ -37,6 +39,7 @@ Tiny	Fast (~51s)	Lower
 Base	Slower (~113s)	Higher
 
 ## 🧠 Key Insight
+
 Tiny model is fast but less accurate
 Base model improves transcription quality
 Trade-off between performance and accuracy is critical in embedded systems
