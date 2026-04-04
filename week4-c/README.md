@@ -12,7 +12,7 @@ This project implements speech recognition using whisper.cpp on Raspberry Pi.
 ```bash
 ./run.sh
 
-Note
+## Note
 
 Model files are not included.
 Please download using whisper.cpp.
