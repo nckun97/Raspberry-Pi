@@ -1,7 +1,7 @@
 ```markdown
 # 🎤 Whisper Speech Recognition on Raspberry Pi (C/C++)
 
-This project demonstrates speech recognition on Raspberry Pi using **whisper.cpp**.
+This project demonstrates speech recognition on Raspberry Pi using whisper.cpp.
 
 ---
 
