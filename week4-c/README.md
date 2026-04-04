@@ -1,3 +1,4 @@
+```markdown
 # 🎤 Whisper Speech Recognition on Raspberry Pi (C/C++)
 
 This project demonstrates speech recognition on Raspberry Pi using **whisper.cpp**.
@@ -22,13 +23,13 @@ make
 ./models/download-ggml-model.sh base
 
 
----
 
-## ▶️ Run
+
+▶️ Run
 
 ./run.sh
 
-## 📊 Experiment
+📊 Experiment
 
 Models Tested
 ggml-tiny.bin
@@ -38,18 +39,18 @@ Model	Time	Accuracy
 Tiny	Fast (~51s)	Lower
 Base	Slower (~113s)	Higher
 
-## 🧠 Key Insight
+🧠 Key Insight
 
 Tiny model is fast but less accurate
 Base model improves transcription quality
 Trade-off between performance and accuracy is critical in embedded systems
 
-## 🎯 Conclusion
+🎯 Conclusion
 
 On Raspberry Pi:
 
 Tiny and Base models provide the best balance between performance and accuracy.
 
-## 📌 Note
+📌 Note
 
 Model files are not included due to size limitations.
